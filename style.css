@@ -5,3 +5,16 @@ header{
 li{
     font-size: 1em;
 }
+
+.developed div{
+    margin: 10px 10px;
+}
+.unityroom{
+    display: flex;
+    flex-wrap: wrap;
+}
+.unityroom img{
+    width: 300px;
+    height: 150px;
+    border-radius: 30px;
+}
